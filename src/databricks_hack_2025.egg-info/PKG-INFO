@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: databricks_hack_2025
+Version: 0.0.1+20250609.165916
+Summary: wheel file based on databricks_hack_2025/src
+Home-page: https://databricks.com
+Author: dtraskas@gmail.com
+License-File: LICENSE
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
