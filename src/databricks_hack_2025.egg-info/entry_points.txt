@@ -1,2 +1,0 @@
-[packages]
-main = databricks_hack_2025.main:main
